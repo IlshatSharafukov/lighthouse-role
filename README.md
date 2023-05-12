@@ -1,4 +1,4 @@
-Vector Role
+Lighthouse Role
 =========
 
 This role can install LightHouse on EL
